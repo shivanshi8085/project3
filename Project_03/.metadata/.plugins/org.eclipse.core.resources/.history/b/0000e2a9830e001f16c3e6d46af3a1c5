@@ -1,0 +1,24 @@
+package in.co.rays.project_3.dto;
+
+import java.util.Date;
+
+public class HotelDTO extends BaseDTO{
+	
+	private String name;
+	private String status;
+	private String address;
+	private Date deliveryDate;
+
+	@Override
+	public String getKey() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getValue() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

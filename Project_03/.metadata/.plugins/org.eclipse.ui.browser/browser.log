@@ -1,0 +1,1145 @@
+
+Oct 28, 2023 07:48:58.75 NEW SESSION
+Oct 28, 2023 07:48:58.75 [8428:2156:1028/074858.743:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 28, 2023 07:49:21.61 [8428:2156:1028/074921.615:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 28, 2023 07:50:00.06 [8428:2156:1028/075000.062:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 28, 2023 07:51:04.81 [8428:2156:1028/075104.811:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 28, 2023 07:53:54.36 [8428:2156:1028/075354.363:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Nov 06, 2023 11:26:54.79 NEW SESSION
+Nov 06, 2023 11:26:54.79 [9144:6132:1106/112654.795:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2023 11:27:20.28 [9144:6132:1106/112720.282:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2023 11:28:12.87 [9144:6132:1106/112812.874:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2023 11:29:38.44 [9144:6132:1106/112938.444:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Nov 07, 2023 15:07:38.80 NEW SESSION
+Nov 07, 2023 15:07:38.80 [5000:13748:1107/150738.792:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Nov 23, 2023 13:10:18.86 NEW SESSION
+Nov 23, 2023 13:10:18.86 [17636:15300:1123/131018.726:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 23, 2023 13:48:22.48 [17636:15300:1123/134822.485:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 23, 2023 13:48:43.34 [17636:15300:1123/134843.342:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 23, 2023 13:50:00.04 [17636:16248:1123/135000.044:ERROR:device_event_log_impl.cc(192)] [13:50:00.043] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 23, 2023 13:50:25.95 [17636:16248:1123/135025.952:ERROR:device_event_log_impl.cc(192)] [13:50:25.951] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 23, 2023 14:51:18.49 [17636:15300:1123/145118.492:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 23, 2023 15:15:19.78 [17636:15300:1123/151519.780:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 23, 2023 15:15:25.88 [17636:15300:1123/151525.882:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 12, 2023 18:30:47.96 NEW SESSION
+Dec 12, 2023 18:30:47.96 [8136:10096:1212/183047.952:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jan 23, 2024 19:06:40.75 NEW SESSION
+Jan 23, 2024 19:06:40.75 [9964:1984:0123/190640.748:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jan 24, 2024 11:45:36.50 [9964:1984:0124/114536.407:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jan 24, 2024 11:45:39.87 [9964:1984:0124/114539.871:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Mar 17, 2024 21:27:32.41 NEW SESSION
+Mar 17, 2024 21:27:32.41 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 17, 2024 21:34:56.79 [7848:1472:0317/213456.790:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 17, 2024 23:25:20.98 [7848:1472:0317/232520.970:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Mar 17, 2024 23:25:21.57 [7848:9992:0317/232521.578:ERROR:device_event_log_impl.cc(192)] [23:25:21.573] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 17, 2024 23:35:49.49 [7848:1472:0317/233549.491:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 17, 2024 23:51:40.97 [7848:1472:0317/235140.973:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Mar 17, 2024 23:57:07.50 [7848:1472:0317/235707.506:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 18, 2024 24:03:47.62 [7848:1472:0318/000347.629:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Mar 18, 2024 24:08:20.36 [7848:1472:0318/000820.367:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 18, 2024 24:19:46.40 [7848:1472:0318/001946.403:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+
+Mar 18, 2024 14:04:12.41 NEW SESSION
+Mar 18, 2024 14:04:12.41 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2024 14:44:38.27 [4716:10788:0318/144438.276:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 18, 2024 14:58:12.17 [4716:10788:0318/145812.128:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 18, 2024 14:58:17.17 [4716:10788:0318/145817.177:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 18, 2024 15:15:40.15 [4716:10788:0318/151540.149:ERROR:checkin_request.cc(243)] Check-in request got net error: -331
+Mar 18, 2024 15:15:44.66 [4716:10788:0318/151544.665:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 18, 2024 15:23:48.37 [4716:3352:0318/152348.372:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+Mar 18, 2024 15:28:02.45 [4716:3352:0318/152802.452:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+Mar 18, 2024 15:28:17.04 [4716:3352:0318/152817.031:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+Mar 18, 2024 15:36:40.37 [4716:10788:0318/153640.372:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 18, 2024 15:46:48.21 [4716:10788:0318/154648.209:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Mar 18, 2024 15:53:02.70 [4716:3352:0318/155302.700:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+Mar 18, 2024 15:56:46.59 [4716:3352:0318/155646.593:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+Mar 18, 2024 15:56:47.62 [4716:3352:0318/155647.622:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint (unset) for first_image_paint 1.596 s
+Mar 18, 2024 15:56:47.63 [4716:3352:0318/155647.635:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:47.82 [4716:3352:0318/155647.822:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:48.17 [4716:3352:0318/155648.176:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:48.30 [4716:3352:0318/155648.305:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:48.69 [4716:3352:0318/155648.694:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:49.04 [4716:3352:0318/155649.040:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:49.26 [4716:3352:0318/155649.261:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:49.52 [4716:3352:0318/155649.522:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:49.71 [4716:3352:0318/155649.712:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:49.89 [4716:3352:0318/155649.894:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:50.02 [4716:3352:0318/155650.020:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:50.12 [4716:3352:0318/155650.121:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:50.42 [4716:3352:0318/155650.422:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:50.56 [4716:3352:0318/155650.560:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:50.80 [4716:3352:0318/155650.804:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:50.90 [4716:3352:0318/155650.907:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:51.35 [4716:3352:0318/155651.350:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:51.45 [4716:3352:0318/155651.451:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:51.57 [4716:3352:0318/155651.572:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:51.69 [4716:3352:0318/155651.689:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:51.79 [4716:3352:0318/155651.798:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:51.96 [4716:3352:0318/155651.964:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:52.07 [4716:3352:0318/155652.070:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:52.30 [4716:3352:0318/155652.299:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:52.41 [4716:3352:0318/155652.417:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:52.84 [4716:3352:0318/155652.849:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:52.95 [4716:3352:0318/155652.952:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:53.26 [4716:3352:0318/155653.263:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:53.62 [4716:3352:0318/155653.628:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:54.10 [4716:3352:0318/155654.100:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:54.23 [4716:3352:0318/155654.236:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:54.38 [4716:3352:0318/155654.382:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:54.49 [4716:3352:0318/155654.491:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:54.60 [4716:3352:0318/155654.605:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:54.74 [4716:3352:0318/155654.746:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:54.87 [4716:3352:0318/155654.870:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:55.31 [4716:3352:0318/155655.316:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:55.48 [4716:3352:0318/155655.488:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:55.61 [4716:3352:0318/155655.616:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:55.76 [4716:3352:0318/155655.767:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:55.89 [4716:3352:0318/155655.890:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:55.99 [4716:3352:0318/155655.992:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:56.09 [4716:3352:0318/155656.099:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:56.25 [4716:3352:0318/155656.249:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:56.39 [4716:3352:0318/155656.393:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:56.52 [4716:3352:0318/155656.527:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:56.63 [4716:3352:0318/155656.634:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:56.74 [4716:3352:0318/155656.743:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:56.89 [4716:3352:0318/155656.892:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:56.99 [4716:3352:0318/155656.999:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:57.11 [4716:3352:0318/155657.115:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:57.21 [4716:3352:0318/155657.217:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:57.32 [4716:3352:0318/155657.327:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:57.72 [4716:3352:0318/155657.727:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:57.95 [4716:3352:0318/155657.950:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:58.07 [4716:3352:0318/155658.069:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:58.17 [4716:3352:0318/155658.173:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:58.31 [4716:3352:0318/155658.313:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:58.48 [4716:3352:0318/155658.483:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:59.03 [4716:3352:0318/155659.039:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:59.18 [4716:3352:0318/155659.182:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:59.35 [4716:3352:0318/155659.355:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:59.47 [4716:3352:0318/155659.475:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:59.70 [4716:3352:0318/155659.703:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:59.81 [4716:3352:0318/155659.814:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:56:59.92 [4716:3352:0318/155659.919:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:00.20 [4716:3352:0318/155700.203:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:00.33 [4716:3352:0318/155700.331:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:00.63 [4716:3352:0318/155700.637:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:00.79 [4716:3352:0318/155700.791:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:01.01 [4716:3352:0318/155701.011:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:01.14 [4716:3352:0318/155701.141:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:01.28 [4716:3352:0318/155701.284:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:01.44 [4716:3352:0318/155701.443:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:01.72 [4716:3352:0318/155701.725:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:01.83 [4716:3352:0318/155701.839:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:01.98 [4716:3352:0318/155701.985:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:02.47 [4716:3352:0318/155702.475:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:03.37 [4716:3352:0318/155703.377:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:03.75 [4716:3352:0318/155703.751:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:03.91 [4716:3352:0318/155703.915:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:04.07 [4716:3352:0318/155704.076:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:04.23 [4716:3352:0318/155704.231:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:04.55 [4716:3352:0318/155704.557:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:05.04 [4716:3352:0318/155705.039:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:05.21 [4716:3352:0318/155705.211:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:05.38 [4716:3352:0318/155705.381:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:05.51 [4716:3352:0318/155705.513:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:05.62 [4716:3352:0318/155705.623:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:05.81 [4716:3352:0318/155705.810:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:05.95 [4716:3352:0318/155705.951:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:06.06 [4716:3352:0318/155706.064:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:06.17 [4716:3352:0318/155706.174:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:06.28 [4716:3352:0318/155706.283:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:06.39 [4716:3352:0318/155706.392:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:06.50 [4716:3352:0318/155706.508:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:07.39 [4716:3352:0318/155707.392:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:07.82 [4716:3352:0318/155707.823:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:08.05 [4716:3352:0318/155708.058:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:08.16 [4716:3352:0318/155708.165:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:08.32 [4716:3352:0318/155708.325:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:09.28 [4716:3352:0318/155709.283:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:09.39 [4716:3352:0318/155709.390:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:09.55 [4716:3352:0318/155709.555:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:09.68 [4716:3352:0318/155709.689:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:09.79 [4716:3352:0318/155709.798:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:10.37 [4716:3352:0318/155710.376:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:10.53 [4716:3352:0318/155710.530:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:10.64 [4716:3352:0318/155710.647:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:11.01 [4716:3352:0318/155711.010:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:11.15 [4716:3352:0318/155711.154:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:11.31 [4716:3352:0318/155711.314:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:11.44 [4716:3352:0318/155711.449:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:11.64 [4716:3352:0318/155711.642:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:11.75 [4716:3352:0318/155711.751:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:11.90 [4716:3352:0318/155711.900:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:12.04 [4716:3352:0318/155712.048:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:12.16 [4716:3352:0318/155712.162:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:12.30 [4716:3352:0318/155712.307:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:12.53 [4716:3352:0318/155712.532:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:12.68 [4716:3352:0318/155712.685:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:12.80 [4716:3352:0318/155712.804:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:13.34 [4716:3352:0318/155713.346:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:13.48 [4716:3352:0318/155713.483:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:13.65 [4716:3352:0318/155713.658:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:14.61 [4716:3352:0318/155714.613:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:14.74 [4716:3352:0318/155714.749:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:15.40 [4716:3352:0318/155715.403:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:15.59 [4716:3352:0318/155715.591:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:15.90 [4716:3352:0318/155715.908:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:16.26 [4716:3352:0318/155716.261:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:16.81 [4716:3352:0318/155716.810:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:17.05 [4716:3352:0318/155717.056:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:17.07 [4716:3352:0318/155717.078:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:17.19 [4716:3352:0318/155717.196:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:17.36 [4716:3352:0318/155717.364:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:17.48 [4716:3352:0318/155717.482:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:17.61 [4716:3352:0318/155717.614:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:17.65 [4716:3352:0318/155717.656:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:17.68 [4716:3352:0318/155717.686:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:17.82 [4716:3352:0318/155717.819:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:18.15 [4716:3352:0318/155718.156:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:18.29 [4716:3352:0318/155718.294:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:18.44 [4716:3352:0318/155718.440:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:18.55 [4716:3352:0318/155718.556:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:18.58 [4716:3352:0318/155718.585:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:19.07 [4716:3352:0318/155719.074:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:19.19 [4716:3352:0318/155719.194:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:19.30 [4716:3352:0318/155719.304:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:19.83 [4716:3352:0318/155719.838:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:19.95 [4716:3352:0318/155719.953:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:20.07 [4716:3352:0318/155720.069:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:20.59 [4716:3352:0318/155720.597:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:20.86 [4716:3352:0318/155720.867:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:20.98 [4716:3352:0318/155720.981:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:21.08 [4716:3352:0318/155721.088:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:21.46 [4716:3352:0318/155721.460:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:21.66 [4716:3352:0318/155721.662:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:21.77 [4716:3352:0318/155721.779:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:21.89 [4716:3352:0318/155721.897:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:22.00 [4716:3352:0318/155722.007:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:22.13 [4716:3352:0318/155722.133:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:22.23 [4716:3352:0318/155722.238:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:22.39 [4716:3352:0318/155722.392:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:22.59 [4716:3352:0318/155722.595:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:22.74 [4716:3352:0318/155722.742:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:23.03 [4716:3352:0318/155723.030:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:23.18 [4716:3352:0318/155723.184:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:23.37 [4716:3352:0318/155723.372:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:23.48 [4716:3352:0318/155723.488:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:23.76 [4716:3352:0318/155723.761:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:23.94 [4716:3352:0318/155723.939:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:24.09 [4716:3352:0318/155724.097:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:24.21 [4716:3352:0318/155724.214:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:24.34 [4716:3352:0318/155724.348:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:24.45 [4716:3352:0318/155724.451:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:24.86 [4716:3352:0318/155724.860:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:24.96 [4716:3352:0318/155724.969:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:25.27 [4716:3352:0318/155725.277:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:25.42 [4716:3352:0318/155725.428:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:25.56 [4716:3352:0318/155725.565:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:26.12 [4716:3352:0318/155726.125:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:26.29 [4716:3352:0318/155726.294:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:26.41 [4716:3352:0318/155726.413:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:26.81 [4716:3352:0318/155726.814:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:26.92 [4716:3352:0318/155726.921:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:27.03 [4716:3352:0318/155727.036:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:27.32 [4716:3352:0318/155727.324:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:27.50 [4716:3352:0318/155727.499:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:27.80 [4716:3352:0318/155727.807:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:27.92 [4716:3352:0318/155727.919:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:28.14 [4716:3352:0318/155728.144:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:28.25 [4716:3352:0318/155728.250:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:28.39 [4716:3352:0318/155728.393:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:28.91 [4716:3352:0318/155728.916:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:29.07 [4716:3352:0318/155729.077:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:29.18 [4716:3352:0318/155729.189:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:29.34 [4716:3352:0318/155729.341:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:29.53 [4716:3352:0318/155729.539:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:29.60 [4716:3352:0318/155729.602:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:29.70 [4716:3352:0318/155729.707:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:30.45 [4716:3352:0318/155730.454:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:30.58 [4716:3352:0318/155730.580:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:30.88 [4716:3352:0318/155730.889:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:31.14 [4716:3352:0318/155731.147:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:31.33 [4716:3352:0318/155731.333:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:31.52 [4716:3352:0318/155731.520:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:31.66 [4716:3352:0318/155731.664:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:31.81 [4716:3352:0318/155731.813:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:32.18 [4716:3352:0318/155732.188:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:32.76 [4716:3352:0318/155732.765:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:32.99 [4716:3352:0318/155732.996:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:34.04 [4716:3352:0318/155734.047:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:34.36 [4716:3352:0318/155734.364:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:34.64 [4716:3352:0318/155734.643:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:35.07 [4716:3352:0318/155735.070:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:35.39 [4716:3352:0318/155735.392:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:35.75 [4716:3352:0318/155735.753:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:36.60 [4716:3352:0318/155736.602:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:37.98 [4716:3352:0318/155737.988:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:38.48 [4716:3352:0318/155738.482:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:38.67 [4716:3352:0318/155738.674:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:38.82 [4716:3352:0318/155738.828:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:38.93 [4716:3352:0318/155738.932:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:39.15 [4716:3352:0318/155739.151:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:39.34 [4716:3352:0318/155739.345:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:39.65 [4716:3352:0318/155739.654:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:39.85 [4716:3352:0318/155739.853:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:40.04 [4716:3352:0318/155740.044:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:40.32 [4716:3352:0318/155740.324:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:41.94 [4716:3352:0318/155741.947:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:42.14 [4716:3352:0318/155742.145:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:42.35 [4716:3352:0318/155742.353:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:42.52 [4716:3352:0318/155742.522:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:42.67 [4716:3352:0318/155742.673:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:43.50 [4716:3352:0318/155743.504:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:43.66 [4716:3352:0318/155743.667:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:44.20 [4716:3352:0318/155744.200:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:44.50 [4716:3352:0318/155744.507:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:45.27 [4716:3352:0318/155745.275:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:45.66 [4716:3352:0318/155745.660:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:45.74 [4716:3352:0318/155745.746:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:45.76 [4716:3352:0318/155745.759:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:45.78 [4716:3352:0318/155745.785:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:46.02 [4716:3352:0318/155746.023:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:46.17 [4716:3352:0318/155746.170:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:46.44 [4716:3352:0318/155746.449:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:46.60 [4716:3352:0318/155746.600:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:46.80 [4716:3352:0318/155746.803:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:46.97 [4716:3352:0318/155746.975:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:47.19 [4716:3352:0318/155747.194:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:47.39 [4716:3352:0318/155747.394:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:47.54 [4716:3352:0318/155747.546:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:47.66 [4716:3352:0318/155747.659:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:47.77 [4716:3352:0318/155747.771:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:48.45 [4716:3352:0318/155748.452:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:48.60 [4716:3352:0318/155748.600:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:48.77 [4716:3352:0318/155748.774:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:48.89 [4716:3352:0318/155748.897:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:49.02 [4716:3352:0318/155749.027:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:49.25 [4716:3352:0318/155749.253:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:49.43 [4716:3352:0318/155749.433:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:50.05 [4716:3352:0318/155750.056:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:51.71 [4716:3352:0318/155751.712:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:51.84 [4716:3352:0318/155751.840:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:51.98 [4716:3352:0318/155751.982:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:52.20 [4716:3352:0318/155752.203:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:52.36 [4716:3352:0318/155752.361:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:52.52 [4716:3352:0318/155752.524:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:52.64 [4716:3352:0318/155752.640:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:52.85 [4716:3352:0318/155752.858:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:54.14 [4716:3352:0318/155754.146:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:54.75 [4716:3352:0318/155754.758:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:55.06 [4716:3352:0318/155755.065:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:55.19 [4716:3352:0318/155755.196:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:55.41 [4716:3352:0318/155755.411:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:55.53 [4716:3352:0318/155755.531:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:55.69 [4716:3352:0318/155755.690:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:56.63 [4716:3352:0318/155756.639:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:56.97 [4716:3352:0318/155756.972:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:57.21 [4716:3352:0318/155757.217:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:58.05 [4716:3352:0318/155758.054:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:58.31 [4716:3352:0318/155758.315:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:58.56 [4716:3352:0318/155758.561:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:58.74 [4716:3352:0318/155758.742:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:58.98 [4716:3352:0318/155758.985:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:59.09 [4716:3352:0318/155759.091:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:57:59.31 [4716:3352:0318/155759.318:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:02.34 [4716:3352:0318/155802.341:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:02.48 [4716:3352:0318/155802.483:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:02.63 [4716:3352:0318/155802.633:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:02.74 [4716:3352:0318/155802.748:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:02.89 [4716:3352:0318/155802.895:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:03.06 [4716:3352:0318/155803.063:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:03.20 [4716:3352:0318/155803.204:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:05.80 [4716:3352:0318/155805.808:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:06.48 [4716:3352:0318/155806.484:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:08.73 [4716:3352:0318/155808.731:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:08.84 [4716:3352:0318/155808.846:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:09.08 [4716:3352:0318/155809.079:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:09.29 [4716:3352:0318/155809.299:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:09.42 [4716:3352:0318/155809.424:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:09.57 [4716:3352:0318/155809.578:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:10.27 [4716:3352:0318/155810.278:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:10.41 [4716:3352:0318/155810.413:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:10.59 [4716:3352:0318/155810.596:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:10.72 [4716:3352:0318/155810.722:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:10.86 [4716:3352:0318/155810.864:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:13.42 [4716:3352:0318/155813.424:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:13.84 [4716:3352:0318/155813.845:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:13.99 [4716:3352:0318/155813.993:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:14.19 [4716:3352:0318/155814.198:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:14.37 [4716:3352:0318/155814.369:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:14.47 [4716:3352:0318/155814.477:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:14.80 [4716:3352:0318/155814.806:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:15.24 [4716:3352:0318/155815.242:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:15.38 [4716:3352:0318/155815.383:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:15.50 [4716:3352:0318/155815.507:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:15.64 [4716:3352:0318/155815.648:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:15.79 [4716:3352:0318/155815.791:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:18.77 [4716:3352:0318/155818.773:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:18.95 [4716:3352:0318/155818.957:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:19.06 [4716:3352:0318/155819.065:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:19.77 [4716:3352:0318/155819.773:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:20.86 [4716:3352:0318/155820.866:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:21.06 [4716:3352:0318/155821.064:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:21.21 [4716:3352:0318/155821.218:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:21.33 [4716:3352:0318/155821.330:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:21.54 [4716:3352:0318/155821.540:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:21.86 [4716:3352:0318/155821.864:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:22.10 [4716:3352:0318/155822.106:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:24.48 [4716:3352:0318/155824.489:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:25.25 [4716:3352:0318/155825.258:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:25.99 [4716:3352:0318/155825.999:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:29.89 [4716:3352:0318/155829.897:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:31.95 [4716:3352:0318/155831.955:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:34.41 [4716:3352:0318/155834.416:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:36.58 [4716:3352:0318/155836.587:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:39.16 [4716:3352:0318/155839.169:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:44.05 [4716:3352:0318/155844.055:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:49.04 [4716:3352:0318/155849.041:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:53.67 [4716:3352:0318/155853.670:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:58:57.98 [4716:3352:0318/155857.989:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:03.07 [4716:3352:0318/155903.075:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:07.87 [4716:3352:0318/155907.869:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:12.92 [4716:3352:0318/155912.928:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:17.76 [4716:3352:0318/155917.767:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:22.01 [4716:3352:0318/155922.011:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:22.19 [4716:3352:0318/155922.190:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:23.05 [4716:3352:0318/155923.053:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:23.07 [4716:3352:0318/155923.070:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:24.17 [4716:3352:0318/155924.177:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:25.37 [4716:3352:0318/155925.374:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:25.92 [4716:3352:0318/155925.922:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:27.38 [4716:3352:0318/155927.382:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:28.04 [4716:3352:0318/155928.041:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:28.49 [4716:3352:0318/155928.498:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:32.29 [4716:3352:0318/155932.291:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:32.81 [4716:3352:0318/155932.818:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:37.42 [4716:3352:0318/155937.428:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:37.70 [4716:3352:0318/155937.709:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:42.31 [4716:3352:0318/155942.311:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:42.64 [4716:3352:0318/155942.641:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:46.63 [4716:3352:0318/155946.630:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:47.23 [4716:3352:0318/155947.235:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:51.44 [4716:3352:0318/155951.440:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 15:59:55.83 [4716:3352:0318/155955.832:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:00:00.85 [4716:3352:0318/160000.855:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:00:05.36 [4716:3352:0318/160005.369:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:00:09.95 [4716:3352:0318/160009.958:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:00:14.80 [4716:3352:0318/160014.807:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:00:19.21 [4716:3352:0318/160019.214:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:00:23.75 [4716:3352:0318/160023.756:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:00:28.62 [4716:3352:0318/160028.624:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:00:32.99 [4716:3352:0318/160032.990:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:00:37.73 [4716:3352:0318/160037.732:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:00:42.43 [4716:3352:0318/160042.433:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:00:46.65 [4716:3352:0318/160046.651:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:00:50.75 [4716:3352:0318/160050.753:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:00:55.19 [4716:3352:0318/160055.192:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:00:59.59 [4716:3352:0318/160059.598:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:01:04.58 [4716:3352:0318/160104.587:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:01:09.04 [4716:3352:0318/160109.041:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:01:13.42 [4716:3352:0318/160113.424:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:01:18.24 [4716:3352:0318/160118.241:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:01:22.76 [4716:3352:0318/160122.767:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:01:27.33 [4716:3352:0318/160127.333:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:01:32.16 [4716:3352:0318/160132.163:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:01:36.41 [4716:3352:0318/160136.413:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:01:40.96 [4716:3352:0318/160140.968:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:01:45.68 [4716:3352:0318/160145.683:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:01:50.14 [4716:3352:0318/160150.147:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:01:55.06 [4716:3352:0318/160155.065:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:01:59.45 [4716:3352:0318/160159.455:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:02:03.86 [4716:3352:0318/160203.867:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:02:08.54 [4716:3352:0318/160208.547:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:02:11.18 [4716:3352:0318/160211.184:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:02:12.33 [4716:3352:0318/160212.332:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:02:17.06 [4716:3352:0318/160217.063:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:02:21.89 [4716:3352:0318/160221.899:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:02:26.57 [4716:3352:0318/160226.571:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:02:31.20 [4716:3352:0318/160231.208:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:02:35.63 [4716:3352:0318/160235.634:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:02:40.24 [4716:3352:0318/160240.243:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:02:45.12 [4716:3352:0318/160245.129:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:02:49.41 [4716:3352:0318/160249.413:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:02:54.10 [4716:3352:0318/160254.100:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:02:58.99 [4716:3352:0318/160258.997:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:03:03.37 [4716:3352:0318/160303.376:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:03:08.14 [4716:3352:0318/160308.143:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:03:12.76 [4716:3352:0318/160312.769:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:03:17.23 [4716:3352:0318/160317.236:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:03:19.13 [4716:3352:0318/160319.137:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:03:20.38 [4716:3352:0318/160320.381:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:03:23.09 [4716:3352:0318/160323.091:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:03:25.70 [4716:3352:0318/160325.699:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:03:27.75 [4716:3352:0318/160327.750:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:03:30.62 [4716:3352:0318/160330.627:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:03:40.09 [4716:3352:0318/160340.095:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:07:12.31 [4716:3352:0318/160712.312:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:07:32.76 [4716:3352:0318/160732.763:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:07:39.02 [4716:3352:0318/160739.027:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:07:44.74 [4716:3352:0318/160744.745:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:07:51.38 [4716:3352:0318/160751.387:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:07:56.63 [4716:3352:0318/160756.638:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:08:50.61 [4716:3352:0318/160850.613:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:08:55.03 [4716:3352:0318/160855.030:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+Mar 18, 2024 16:08:57.84 [4716:3352:0318/160857.847:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.627 s for first_image_paint 1.596 s
+
+Mar 18, 2024 22:05:55.49 NEW SESSION
+Mar 18, 2024 22:05:55.49 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2024 22:27:20.31 [5464:13828:0318/222720.314:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 18, 2024 22:30:07.70 [5464:13828:0318/223007.701:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Mar 18, 2024 23:11:20.49 [5464:13828:0318/231120.492:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 18, 2024 23:28:50.50 [5464:13828:0318/232850.505:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 18, 2024 23:29:00.88 [5464:13828:0318/232900.882:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Mar 18, 2024 23:42:22.73 [5464:13828:0318/233620.534:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+
+Mar 19, 2024 09:27:41.71 NEW SESSION
+Mar 19, 2024 09:27:41.71 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 19, 2024 09:35:31.04 [8244:1648:0319/093531.048:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Mar 19, 2024 21:36:08.04 NEW SESSION
+Mar 19, 2024 21:36:08.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 19, 2024 22:14:25.00 [12504:11164:0319/221425.003:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 19, 2024 22:21:24.35 [12504:17140:0319/222124.356:ERROR:device_event_log_impl.cc(192)] [22:21:24.354] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 19, 2024 23:23:14.22 [12504:11164:0319/230555.648:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 19, 2024 23:24:54.00 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 20, 2024 08:18:22.47 NEW SESSION
+Mar 20, 2024 08:18:22.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 20, 2024 08:36:30.30 [17296:8880:0320/083630.305:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 20, 2024 08:48:01.95 [17296:8880:0320/084801.951:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Mar 20, 2024 08:53:34.77 [17296:8880:0320/085334.772:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 20, 2024 10:13:05.24 [17296:8880:0320/101305.248:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Mar 20, 2024 10:14:16.78 [17296:8880:0320/101416.787:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2024 10:14:48.08 [17296:8880:0320/101448.082:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2024 10:15:40.28 [17296:8880:0320/101540.288:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2024 10:31:07.30 [17296:8880:0320/103107.309:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+Mar 20, 2024 12:22:04.45 NEW SESSION
+Mar 20, 2024 12:22:04.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 20, 2024 17:21:57.15 NEW SESSION
+Mar 20, 2024 17:21:57.15 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 20, 2024 17:25:19.47 [3004:17448:0320/172519.471:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+Mar 20, 2024 17:26:57.96 [3004:5268:0320/172657.967:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 20, 2024 17:32:40.28 [3004:5268:0320/173240.286:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Mar 20, 2024 17:36:08.51 [3004:5268:0320/173608.513:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 20, 2024 17:48:16.15 [3004:5268:0320/174816.149:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Mar 20, 2024 17:55:58.37 [3004:5268:0320/175146.188:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+
+Mar 21, 2024 08:11:40.59 NEW SESSION
+Mar 21, 2024 08:11:40.59 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 21, 2024 14:23:20.19 NEW SESSION
+Mar 21, 2024 14:23:20.19 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 21, 2024 14:24:14.09 [17116:17428:0321/142414.089:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_CONNECTION_TIMED_OUT)
+Mar 21, 2024 14:24:56.00 [17116:13164:0321/142456.006:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+Mar 21, 2024 14:25:55.51 [17116:13164:0321/142555.518:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Mar 21, 2024 14:34:44.31 [17116:13164:0321/143444.312:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 21, 2024 14:34:46.33 [17116:13164:0321/143446.332:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2024 14:34:47.69 [17116:10824:0321/143447.691:ERROR:device_event_log_impl.cc(192)] [14:34:47.691] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2024 14:35:20.29 [17116:13164:0321/143520.291:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 21, 2024 14:52:19.38 [17116:13164:0321/145219.387:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 21, 2024 14:52:28.45 [17116:13164:0321/145228.458:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 21, 2024 14:53:02.04 [17116:13164:0321/145302.040:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 21, 2024 14:54:01.81 [17116:13164:0321/145401.811:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 21, 2024 14:55:25.71 [17116:13164:0321/145525.716:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 21, 2024 14:58:21.69 [17116:13164:0321/145821.692:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 21, 2024 15:04:32.32 [17116:13164:0321/150432.326:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 21, 2024 15:33:15.00 [17116:13164:0321/153315.000:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 21, 2024 15:35:55.04 [17116:13164:0321/153555.042:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+Mar 22, 2024 16:23:30.02 NEW SESSION
+Mar 22, 2024 16:23:30.02 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 25, 2024 16:56:37.41 NEW SESSION
+Mar 25, 2024 16:56:37.41 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 25, 2024 17:11:24.50 [15932:5992:0325/171124.508:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+
+Apr 01, 2024 09:02:16.50 NEW SESSION
+Apr 01, 2024 09:02:16.50 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 01, 2024 09:13:53.79 [27208:27228:0401/091353.791:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 09:19:47.81 [27208:27228:0401/091947.815:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 09:20:35.75 [27208:27228:0401/092035.751:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 09:38:56.14 [27208:27228:0401/093856.145:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 09:38:56.31 [27208:27228:0401/093856.311:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 01, 2024 09:40:15.36 [27208:27228:0401/094015.362:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 10:53:42.47 [27208:27228:0401/102909.117:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 10:53:43.04 [27208:27228:0401/105343.047:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2024 10:53:45.33 [27208:27228:0401/105345.336:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Apr 01, 2024 21:36:12.57 NEW SESSION
+Apr 01, 2024 21:36:12.57 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 01, 2024 21:42:34.29 [24832:2144:0401/214234.294:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 22:40:07.80 [24832:2144:0401/224007.806:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 22:41:11.26 [24832:2144:0401/224111.263:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 22:41:49.84 [24832:2144:0401/224149.840:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 22:41:49.89 [24832:2144:0401/224149.895:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2024 22:42:00.35 [24832:2144:0401/224200.357:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2024 23:04:32.92 [24832:2144:0401/230432.928:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 23:09:34.97 [24832:2144:0401/230934.971:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 23:11:04.97 [24832:2144:0401/231104.971:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 23:12:04.44 [24832:2144:0401/231204.443:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2024 23:13:52.96 [24832:2144:0401/231352.964:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 23:13:54.93 [24832:2144:0401/231354.928:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2024 23:14:05.77 [24832:2144:0401/231405.777:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2024 23:49:07.49 [24832:2144:0401/234907.490:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 01, 2024 23:49:07.49 [24832:2144:0401/234907.492:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2024 23:49:38.79 [24832:2144:0401/234938.796:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 01, 2024 23:49:43.86 [24832:2144:0401/234943.860:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 01, 2024 23:59:54.86 [24832:2144:0401/235954.864:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2024 24:00:20.17 [24832:2144:0402/000020.176:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2024 24:01:22.66 [24832:2144:0402/000122.660:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2024 24:03:20.65 [24832:2144:0402/000320.657:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2024 24:07:16.43 [24832:2144:0402/000716.431:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2024 24:13:53.85 [24832:2144:0402/001353.854:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2024 24:23:56.91 [24832:2144:0402/002356.912:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Apr 02, 2024 12:59:51.62 NEW SESSION
+Apr 02, 2024 12:59:51.62 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 02, 2024 13:12:31.22 [15364:11144:0402/131231.227:ERROR:interface_endpoint_client.cc(707)] Message 5 rejected by interface blink.mojom.WidgetHost
+Apr 02, 2024 13:29:24.48 [15364:27488:0402/132924.485:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 02, 2024 13:50:33.57 [15364:27488:0402/135033.571:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 02, 2024 13:51:29.55 [15364:27488:0402/135129.554:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 02, 2024 14:21:49.73 [15364:27488:0402/142149.736:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 02, 2024 14:24:09.97 [15364:27488:0402/142409.975:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 02, 2024 14:29:03.72 [15364:27488:0402/142903.721:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 02, 2024 14:30:28.19 [15364:27488:0402/143028.196:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 02, 2024 14:38:19.97 [15364:27488:0402/143819.973:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 02, 2024 14:39:23.80 [15364:27488:0402/143923.800:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 02, 2024 14:40:06.99 [15364:27488:0402/144006.998:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 02, 2024 14:56:35.62 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 02, 2024 15:00:18.13 [18208:21196:0402/150018.131:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 02, 2024 15:11:58.39 [18208:21196:0402/151158.397:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 02, 2024 15:20:22.93 [18208:21196:0402/152022.935:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Apr 03, 2024 24:51:32.66 NEW SESSION
+Apr 03, 2024 24:51:32.66 [18096:9128:0403/005132.660:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2024 24:51:34.36 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 03, 2024 24:51:55.51 [18096:9128:0403/005155.515:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2024 24:52:40.60 [18096:9128:0403/005240.608:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2024 24:54:03.21 [18096:9128:0403/005403.210:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2024 24:57:24.62 [18096:9128:0403/005724.621:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2024 01:03:12.66 [18096:9128:0403/010312.664:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+Apr 03, 2024 13:10:26.67 NEW SESSION
+Apr 03, 2024 13:10:26.67 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 03, 2024 13:44:26.08 [17980:14844:0403/134426.080:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 03, 2024 13:50:29.25 [17980:14844:0403/135029.255:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 03, 2024 14:12:47.14 [17980:14844:0403/135656.344:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 03, 2024 14:16:17.42 [17980:14844:0403/141617.426:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 03, 2024 14:16:32.52 [17980:14844:0403/141632.526:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 03, 2024 14:47:57.39 [17980:14844:0403/144757.392:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 03, 2024 15:09:43.35 [17980:14844:0403/150943.354:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 03, 2024 15:20:08.97 [17980:14844:0403/152008.978:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 03, 2024 15:29:08.97 [17980:14844:0403/152908.978:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Apr 05, 2024 24:04:50.44 NEW SESSION
+Apr 05, 2024 24:04:50.44 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 05, 2024 24:09:33.56 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 05, 2024 24:17:39.24 [9116:5832:0405/001739.246:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 05, 2024 24:36:25.52 [9116:5832:0405/003625.528:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+
+Apr 05, 2024 09:30:31.60 NEW SESSION
+Apr 05, 2024 09:30:31.60 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 05, 2024 09:46:20.90 [4356:10732:0405/094620.909:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 05, 2024 09:50:06.92 [4356:10732:0405/095006.926:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 05, 2024 10:10:49.74 [4356:10732:0405/101049.743:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 05, 2024 10:27:32.91 [4356:10732:0405/102732.911:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+
+Apr 06, 2024 12:51:32.45 NEW SESSION
+Apr 06, 2024 12:51:32.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2024 13:24:37.38 [7396:8436:0406/132437.381:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Apr 06, 2024 22:44:58.38 NEW SESSION
+Apr 06, 2024 22:44:58.38 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2024 22:47:19.26 [12636:15080:0406/224719.258:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 06, 2024 23:09:25.39 [12636:15080:0406/230925.394:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+
+Apr 07, 2024 22:20:33.36 NEW SESSION
+Apr 07, 2024 22:20:33.36 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 07, 2024 22:34:34.30 [3884:5884:0407/223434.309:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 07, 2024 22:36:20.76 [3884:5884:0407/223620.766:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+
+Apr 07, 2024 23:33:09.50 NEW SESSION
+Apr 07, 2024 23:33:09.50 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 08, 2024 12:24:59.86 NEW SESSION
+Apr 08, 2024 12:24:59.86 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 08, 2024 12:50:59.48 [14584:17120:0408/125059.487:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 12:51:01.81 [14584:17120:0408/125101.809:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 12:51:49.99 [14584:17120:0408/125149.996:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 12:58:48.48 [14584:17120:0408/125848.485:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 13:00:23.94 [14584:17120:0408/130023.946:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 13:03:34.55 [14584:17120:0408/130334.550:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 13:25:28.21 [14584:17120:0408/132528.210:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+
+Apr 08, 2024 16:15:35.09 NEW SESSION
+Apr 08, 2024 16:15:35.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 08, 2024 16:50:05.36 [3284:20632:0408/165005.361:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 16:50:53.20 [3284:20632:0408/165053.205:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 08, 2024 16:54:17.62 [3284:20632:0408/165417.619:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 16:58:05.32 [3284:20632:0408/165805.323:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 17:06:23.14 [3284:20632:0408/170623.149:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 17:16:37.57 [3284:20632:0408/171637.573:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 17:24:56.48 [3284:20632:0408/172456.480:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 08, 2024 17:32:02.07 [3284:20632:0408/172843.445:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 17:36:26.10 [3284:20632:0408/173626.104:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 17:47:26.39 [3284:20632:0408/174726.395:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 08, 2024 17:50:28.77 [3284:20632:0408/175028.772:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 17:50:48.27 [3284:20632:0408/175048.274:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 08, 2024 17:51:04.43 [3284:14036:0408/175104.437:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+Apr 08, 2024 18:03:28.78 [3284:20632:0408/180328.780:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 18:04:52.77 [3284:20632:0408/180452.770:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 08, 2024 18:04:57.31 [3284:20632:0408/180457.313:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 08, 2024 18:29:10.45 [3284:20632:0408/182910.451:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Apr 08, 2024 22:10:46.71 NEW SESSION
+Apr 08, 2024 22:10:46.71 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 08, 2024 23:04:35.89 [11592:12812:0408/230435.893:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 08, 2024 23:08:27.15 [11592:12812:0408/230827.155:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 09, 2024 24:19:17.91 [11592:12812:0409/001917.911:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Apr 09, 2024 12:16:36.73 NEW SESSION
+Apr 09, 2024 12:16:36.73 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 09, 2024 12:33:15.20 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 09, 2024 12:35:14.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 09, 2024 12:52:36.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 09, 2024 12:57:40.36 [13668:20084:0409/125740.365:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 13:09:18.28 [13668:20084:0409/130918.288:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 09, 2024 13:11:40.38 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 09, 2024 13:20:00.74 [21156:15228:0409/132000.740:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 14:12:23.57 [21156:15228:0409/141223.573:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 14:16:04.18 [21156:15228:0409/141451.590:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 14:16:04.23 [21156:15228:0409/141604.235:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 09, 2024 14:46:44.36 [21156:15228:0409/144644.361:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 14:54:34.35 [21156:15228:0409/145434.358:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 14:54:59.35 [21156:15228:0409/145459.355:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 09, 2024 15:16:23.54 [21156:15228:0409/151551.763:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 15:16:23.62 [21156:15228:0409/151623.629:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 09, 2024 15:19:34.35 [21156:15228:0409/151934.355:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 15:21:27.77 [21156:15228:0409/152127.768:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 09, 2024 15:26:45.51 [21156:15228:0409/152632.007:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 15:49:37.40 [21156:15228:0409/154937.406:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 16:15:01.07 [21156:15228:0409/161501.070:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -1
+Apr 09, 2024 16:22:36.32 [21156:15228:0409/162236.326:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 16:23:35.39 [21156:15228:0409/162335.394:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 09, 2024 16:31:11.52 [21156:15228:0409/163111.521:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 16:50:39.87 [21156:15228:0409/165039.872:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 09, 2024 17:00:02.77 [21156:15228:0409/170002.772:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 17:00:22.87 [21156:15228:0409/170022.872:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+
+Apr 09, 2024 22:34:20.71 NEW SESSION
+Apr 09, 2024 22:34:20.71 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 10, 2024 24:06:08.00 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 10, 2024 11:58:45.84 NEW SESSION
+Apr 10, 2024 11:58:45.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 10, 2024 11:58:50.30 [12016:10192:0410/115850.309:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 12:00:32.55 [12016:10192:0410/120032.548:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 12:18:10.11 [12016:10192:0410/121810.112:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -103
+Apr 10, 2024 12:36:28.30 [12016:10192:0410/123628.300:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 12:42:05.69 [12016:10192:0410/124205.698:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 12:43:04.33 [12016:10192:0410/124304.330:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 10, 2024 12:48:26.19 [12016:10192:0410/124826.188:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 12:48:26.24 [12016:10192:0410/124826.245:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 10, 2024 12:54:05.69 [12016:10192:0410/125405.696:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 13:03:33.50 [12016:10192:0410/130333.507:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 10, 2024 13:31:57.24 [12016:10192:0410/133157.246:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2024 13:32:06.98 [12016:10192:0410/133206.987:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2024 13:32:42.16 [12016:10192:0410/133242.167:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 13:38:04.16 [12016:10192:0410/133804.164:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 14:04:57.30 [12016:10192:0410/140457.299:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 10, 2024 14:13:04.20 [12016:10192:0410/140824.811:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 14:13:04.20 [12016:10192:0410/141304.204:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 10, 2024 14:13:34.77 [12016:10192:0410/141334.775:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 14:18:50.37 [12016:10192:0410/141850.376:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 14:38:22.67 [12016:10192:0410/143822.677:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 10, 2024 14:38:26.79 [12016:10192:0410/143826.796:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2024 14:41:41.73 [12016:10192:0410/144141.738:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 14:43:05.56 [12016:10192:0410/144305.562:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 10, 2024 14:44:21.47 [12016:10192:0410/144421.475:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Apr 10, 2024 14:44:21.47 [12016:10192:0410/144421.476:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -7
+Apr 10, 2024 14:45:33.78 [12016:10192:0410/144533.782:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+Apr 10, 2024 14:51:18.17 [12016:10192:0410/145118.171:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 14:52:06.90 [12016:10192:0410/145206.905:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -331
+Apr 10, 2024 14:54:02.71 [12016:10192:0410/145402.710:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 10, 2024 14:57:24.20 [12016:10192:0410/145541.636:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 15:09:56.26 [12016:10192:0410/150539.398:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 15:09:56.28 [12016:10192:0410/150956.257:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 10, 2024 15:13:18.50 [12016:10192:0410/151318.508:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 10, 2024 15:42:43.53 [12016:10192:0410/154243.535:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+
+Apr 11, 2024 12:22:27.61 NEW SESSION
+Apr 11, 2024 12:22:27.61 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2024 12:35:55.62 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2024 13:12:54.50 [2064:15464:0411/131254.508:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2024 13:14:31.06 [2064:15464:0411/131431.062:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 11, 2024 13:49:24.78 [2064:15464:0411/134924.786:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 11, 2024 13:52:17.81 [2064:15464:0411/135217.810:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2024 13:52:55.09 [2064:15464:0411/135255.097:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 11, 2024 13:53:01.88 [2064:15464:0411/135301.882:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2024 13:53:21.46 [2064:15464:0411/135321.461:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2024 13:56:25.91 [2064:15464:0411/135625.913:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2024 13:56:42.38 [2064:15464:0411/135642.383:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2024 14:00:44.19 [2064:15464:0411/135923.825:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 11, 2024 14:00:44.47 [2064:15464:0411/140044.472:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2024 14:01:24.75 [2064:15464:0411/140124.750:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2024 14:28:05.34 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2024 14:29:37.97 [288:12052:0411/142937.975:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -103
+Apr 11, 2024 14:29:39.94 [288:1916:0411/142939.948:ERROR:device_event_log_impl.cc(195)] [14:29:39.948] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 11, 2024 14:29:40.05 [288:12052:0411/142940.057:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2024 14:30:13.34 [288:12052:0411/143013.341:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+Apr 11, 2024 14:30:53.09 [288:12052:0411/143053.092:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2024 14:31:08.40 [288:12052:0411/143108.408:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2024 14:31:21.35 [288:12052:0411/143121.352:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2024 14:31:27.39 [288:12052:0411/143127.397:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2024 14:49:23.73 [288:12052:0411/143301.417:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 11, 2024 14:49:23.75 [288:12052:0411/144923.749:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 11, 2024 15:07:33.80 [288:12052:0411/145414.109:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 11, 2024 15:07:34.13 [288:12052:0411/150734.136:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2024 15:07:38.27 [288:12052:0411/150738.277:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2024 15:11:24.78 [288:12052:0411/151124.780:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 11, 2024 15:12:29.14 [288:12052:0411/151229.143:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 11, 2024 15:13:56.56 [288:12052:0411/151356.561:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -103
+Apr 11, 2024 15:37:39.17 [288:12052:0411/153739.175:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2024 15:37:44.21 [288:12052:0411/153744.211:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2024 15:38:08.78 [288:12052:0411/153808.782:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 11, 2024 15:47:38.89 [288:12052:0411/154738.899:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 11, 2024 16:02:35.60 [288:12052:0411/160235.599:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 11, 2024 16:16:21.53 [288:12052:0411/161621.533:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 11, 2024 16:19:01.82 [288:12052:0411/161901.820:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 11, 2024 16:20:04.22 [288:12052:0411/162004.224:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 11, 2024 16:43:34.04 [288:12052:0411/164334.045:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 11, 2024 17:25:06.19 [288:12052:0411/170131.861:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 11, 2024 17:25:09.72 [288:12052:0411/172509.722:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+Apr 12, 2024 14:56:16.30 NEW SESSION
+Apr 12, 2024 14:56:16.30 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2024 15:05:09.72 [18916:13084:0412/150509.725:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Apr 12, 2024 23:39:35.41 NEW SESSION
+Apr 12, 2024 23:39:35.41 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2024 23:42:39.16 [13956:10740:0412/234239.168:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 12, 2024 23:43:54.40 [13956:10740:0412/234354.402:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 13, 2024 24:45:38.07 [13956:10740:0413/004454.678:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 13, 2024 24:45:38.17 [13956:10740:0413/004538.174:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+
+Apr 13, 2024 13:51:28.42 NEW SESSION
+Apr 13, 2024 13:51:28.42 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 13, 2024 14:28:44.87 [8768:13612:0413/142844.873:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 13, 2024 14:57:45.19 [8768:13612:0413/145745.197:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 13, 2024 15:06:48.37 [8768:13612:0413/150648.378:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 13, 2024 15:06:48.48 [8768:13612:0413/150648.489:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 13, 2024 15:07:18.75 [8768:19896:0413/150718.758:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 13, 2024 15:40:13.29 [8768:13612:0413/154013.292:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 13, 2024 15:43:43.12 [8768:13612:0413/154343.120:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 13, 2024 15:48:13.71 [8768:13612:0413/154813.713:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 13, 2024 15:48:13.77 [8768:13612:0413/154813.775:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+
+Apr 13, 2024 22:20:13.90 NEW SESSION
+Apr 13, 2024 22:20:13.90 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 13, 2024 23:08:52.32 [20068:16136:0413/225658.621:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 13, 2024 23:47:21.23 [20068:16136:0413/234721.230:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 14, 2024 24:06:11.73 [20068:16136:0414/000611.729:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+
+Apr 15, 2024 13:03:28.67 NEW SESSION
+Apr 15, 2024 13:03:28.67 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 15, 2024 13:05:00.59 [4484:8656:0415/130500.590:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 15, 2024 13:11:31.96 [4484:8656:0415/131131.967:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 15, 2024 13:43:31.91 [4484:8656:0415/134232.270:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 15, 2024 13:43:32.00 [4484:8656:0415/134332.003:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 15, 2024 13:46:24.04 [4484:8656:0415/134624.047:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2024 14:15:30.56 [4484:8656:0415/141530.561:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 15, 2024 14:15:32.61 [4484:8656:0415/141532.612:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2024 14:15:40.06 [4484:16392:0415/141540.066:ERROR:device_event_log_impl.cc(195)] [14:15:40.066] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 15, 2024 14:22:32.28 [4484:8656:0415/142232.284:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 15, 2024 14:22:54.44 [4484:8656:0415/142254.444:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 15, 2024 14:28:34.71 [4484:8656:0415/142834.711:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 15, 2024 14:59:58.68 [4484:8656:0415/145958.680:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 15, 2024 15:19:14.05 [4484:8656:0415/151914.052:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 15, 2024 15:44:16.89 [4484:8656:0415/154416.897:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 15, 2024 15:44:18.93 [4484:8656:0415/154418.933:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2024 15:44:19.95 [4484:16392:0415/154419.950:ERROR:device_event_log_impl.cc(195)] [15:44:19.950] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 15, 2024 15:46:03.90 [4484:8656:0415/154603.898:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 15, 2024 16:08:34.41 [4484:8656:0415/160834.418:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 15, 2024 16:10:15.37 [4484:16392:0415/161015.376:ERROR:service_worker_task_queue.cc(244)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 14
+Apr 15, 2024 16:36:24.64 [4484:8656:0415/163624.645:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 15, 2024 17:13:10.58 [4484:8656:0415/171310.584:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 15, 2024 17:13:54.76 [4484:8656:0415/171354.768:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 15, 2024 17:26:02.35 [4484:16392:0415/172602.350:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Apr 15, 2024 22:08:04.59 NEW SESSION
+Apr 15, 2024 22:08:04.59 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 15, 2024 22:11:30.29 [9224:18696:0415/221130.291:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+Apr 15, 2024 22:34:46.51 [9224:18696:0415/223446.516:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 15, 2024 22:41:19.00 [9224:18696:0415/224119.003:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 15, 2024 23:09:34.07 [9224:18696:0415/230934.076:ERROR:device_event_log_impl.cc(195)] [23:09:34.076] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 15, 2024 23:48:04.64 [9224:10300:0415/234804.639:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 15, 2024 23:48:07.40 [9224:18696:0415/234807.402:ERROR:device_event_log_impl.cc(195)] [23:48:07.402] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 15, 2024 23:48:09.87 [9224:10300:0415/234809.870:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2024 23:48:17.25 [9224:10300:0415/234817.258:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+Apr 16, 2024 12:19:17.47 NEW SESSION
+Apr 16, 2024 12:19:17.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 16, 2024 12:26:21.24 [11032:10736:0416/122430.963:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 12:27:37.50 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 16, 2024 12:33:01.29 [13724:13108:0416/123301.296:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 12:36:03.88 [13724:13108:0416/123603.881:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 16, 2024 13:00:00.56 [13724:13108:0416/130000.560:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 13:04:25.90 [13724:13108:0416/130425.907:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 16, 2024 13:37:56.78 [13724:13108:0416/133756.776:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 14:23:46.12 [13724:13108:0416/142346.119:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 14:23:50.79 [13724:15352:0416/142350.797:ERROR:service_worker_task_queue.cc(244)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 14
+Apr 16, 2024 14:24:19.93 [13724:13108:0416/142419.930:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 14:41:04.31 [13724:13108:0416/144104.309:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 16, 2024 14:44:12.91 [13724:13108:0416/144412.914:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 14:46:19.60 [13724:13108:0416/144619.602:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 14:46:19.81 [13724:13108:0416/144619.818:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 16, 2024 14:49:33.66 [13724:13108:0416/144933.664:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 15:01:13.12 [13724:13108:0416/150113.120:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 15:07:26.26 [13724:13108:0416/150618.859:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 15:07:26.29 [13724:13108:0416/150726.292:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 16, 2024 15:07:32.67 [13724:13108:0416/150732.676:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 15:25:24.29 [13724:13108:0416/152524.294:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 15:25:30.65 [13724:13108:0416/152530.654:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 16:11:16.91 [13724:13108:0416/161116.907:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 16:11:27.77 [13724:13108:0416/161127.772:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 16, 2024 16:12:02.99 [13724:13108:0416/161202.992:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Apr 17, 2024 01:33:02.01 NEW SESSION
+Apr 17, 2024 01:33:02.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 17, 2024 09:40:35.82 NEW SESSION
+Apr 17, 2024 09:40:35.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 17, 2024 12:45:02.92 NEW SESSION
+Apr 17, 2024 12:45:02.92 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 17, 2024 12:50:20.15 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 17, 2024 12:59:21.00 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 17, 2024 13:02:41.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 17, 2024 13:05:51.57 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 17, 2024 13:14:23.79 [2512:13416:0417/131423.793:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 17, 2024 13:14:24.76 [2512:13416:0417/131424.769:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 17, 2024 13:58:59.32 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 17, 2024 14:04:30.28 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 17, 2024 14:07:11.34 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 17, 2024 14:30:00.96 [10740:19492:0417/143000.964:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 17, 2024 14:32:49.75 [10740:19492:0417/143249.752:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 17, 2024 14:34:19.32 [10740:19492:0417/143419.328:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 17, 2024 14:35:34.59 [10740:19492:0417/143534.591:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+
+Apr 17, 2024 15:20:26.47 NEW SESSION
+Apr 17, 2024 15:20:26.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 17, 2024 16:09:52.15 [12068:9088:0417/160952.156:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 17, 2024 16:22:04.70 [12068:9088:0417/162204.706:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 17, 2024 16:25:34.09 [12068:9088:0417/162534.097:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Apr 17, 2024 16:29:20.80 [12068:14484:0417/162920.808:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Apr 20, 2024 12:49:47.43 NEW SESSION
+Apr 20, 2024 12:49:47.43 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 20, 2024 14:45:37.28 [13732:13000:0420/144537.282:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 20, 2024 15:11:07.18 [13732:13000:0420/151107.183:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 20, 2024 15:14:37.17 [13732:13000:0420/151437.176:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 20, 2024 15:21:49.93 [13732:13000:0420/152149.933:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Apr 22, 2024 10:08:19.37 NEW SESSION
+Apr 22, 2024 10:08:19.37 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 22, 2024 10:11:24.03 [1624:16484:0422/101124.036:ERROR:device_event_log_impl.cc(195)] [10:11:24.036] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 22, 2024 10:14:24.99 [1624:2736:0422/101424.992:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 22, 2024 10:24:20.71 [1624:2736:0422/102420.716:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Apr 22, 2024 12:27:28.35 NEW SESSION
+Apr 22, 2024 12:27:28.35 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 22, 2024 13:28:27.24 [19016:3860:0422/132827.240:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 22, 2024 13:36:27.24 [19016:3860:0422/133627.240:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 22, 2024 13:39:57.24 [19016:3860:0422/133957.240:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 22, 2024 13:54:03.59 [19016:3860:0422/135403.593:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 22, 2024 13:54:21.87 [19016:3860:0422/135421.877:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 22, 2024 13:54:26.98 [19016:3860:0422/135426.986:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2024 13:54:29.26 [19016:11976:0422/135429.263:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Apr 22, 2024 13:57:52.16 [19016:3860:0422/135752.168:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 22, 2024 14:05:56.22 [19016:3860:0422/140556.210:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 22, 2024 14:12:16.96 [19016:3860:0422/141216.965:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 22, 2024 14:30:29.92 [19016:3860:0422/143029.922:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 22, 2024 14:32:59.79 [19016:3860:0422/143259.799:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 22, 2024 14:54:06.36 [19016:3860:0422/145406.365:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 22, 2024 14:59:43.01 [19016:3860:0422/145943.015:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 22, 2024 15:55:21.60 [19016:3860:0422/155521.601:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+May 01, 2024 13:17:37.91 NEW SESSION
+May 01, 2024 13:17:37.91 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 01, 2024 13:17:40.53 [4976:19460:0501/131740.534:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+May 01, 2024 13:27:47.54 [4976:19460:0501/132747.545:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+May 02, 2024 22:28:50.16 NEW SESSION
+May 02, 2024 22:28:50.17 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 02, 2024 22:44:04.33 [2180:13924:0502/224404.334:ERROR:device_event_log_impl.cc(195)] [22:44:04.334] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 02, 2024 23:57:46.68 [2180:4480:0502/235047.931:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 02, 2024 23:57:46.95 [2180:4480:0502/235746.953:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+May 03, 2024 24:49:31.98 [2180:4480:0503/004702.739:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+May 03, 2024 12:58:34.90 NEW SESSION
+May 03, 2024 12:58:34.91 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 03, 2024 13:51:34.27 [1548:13876:0503/135134.270:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+May 03, 2024 13:51:45.17 [1548:13876:0503/135145.172:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+May 03, 2024 13:51:54.32 [1548:13876:0503/135154.324:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+May 03, 2024 13:52:14.29 [1548:19112:0503/135214.293:ERROR:device_event_log_impl.cc(195)] [13:52:14.293] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 03, 2024 13:52:14.77 [1548:13876:0503/135214.778:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+May 03, 2024 14:49:04.46 [1548:13876:0503/144904.458:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 03, 2024 15:33:19.08 [1548:13876:0503/153319.081:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 03, 2024 15:46:10.28 [1548:13876:0503/154610.285:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+May 03, 2024 15:51:26.18 [1548:13876:0503/155126.180:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 03, 2024 15:56:28.55 [1548:13876:0503/155628.558:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 03, 2024 16:02:13.46 [1548:13876:0503/160213.466:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 03, 2024 16:03:28.28 [1548:13876:0503/160328.282:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+May 03, 2024 16:09:28.20 [1548:13876:0503/160928.207:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 03, 2024 16:15:57.18 [1548:13876:0503/161557.186:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+
+May 07, 2024 14:08:09.42 NEW SESSION
+May 07, 2024 14:08:09.42 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 07, 2024 14:29:36.91 [13892:17160:0507/142936.915:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+May 08, 2024 17:29:13.43 NEW SESSION
+May 08, 2024 17:29:13.43 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 08, 2024 17:29:27.03 [20164:8792:0508/172927.035:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+May 08, 2024 17:34:24.81 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 08, 2024 17:47:51.85 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 08, 2024 17:48:33.00 [7012:18728:0508/174833.000:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+May 09, 2024 08:58:41.34 NEW SESSION
+May 09, 2024 08:58:41.34 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 09, 2024 10:24:51.71 [20920:16724:0509/102451.718:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 09, 2024 10:24:52.27 [20920:19768:0509/102452.273:ERROR:device_event_log_impl.cc(195)] [10:24:52.273] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 09, 2024 10:28:51.92 [20920:16724:0509/102851.922:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 09, 2024 10:45:37.69 [20920:16724:0509/104537.694:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+May 09, 2024 13:38:11.90 NEW SESSION
+May 09, 2024 13:38:11.90 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 09, 2024 13:42:41.40 [9332:22316:0509/134241.407:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+May 10, 2024 14:53:25.25 NEW SESSION
+May 10, 2024 14:53:25.25 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 10, 2024 16:55:21.73 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 10, 2024 17:30:28.29 [21828:23860:0510/173028.288:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 10, 2024 17:30:28.73 [21828:23860:0510/173028.739:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+May 10, 2024 17:30:58.96 [21828:23860:0510/173058.965:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 10, 2024 17:46:46.30 [21828:23860:0510/174646.300:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 10, 2024 18:05:38.05 [21828:23860:0510/180538.056:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 10, 2024 18:10:27.08 [21828:23860:0510/181027.080:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 10, 2024 18:10:34.97 [21828:23860:0510/181034.972:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 10, 2024 18:32:05.76 [21828:23860:0510/183205.765:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+May 11, 2024 12:47:58.83 NEW SESSION
+May 11, 2024 12:47:58.83 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 11, 2024 12:50:10.32 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 11, 2024 12:52:05.91 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 11, 2024 13:03:30.75 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 11, 2024 13:16:44.22 [11724:19008:0511/131644.213:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 11, 2024 13:30:06.93 [11724:19008:0511/133006.928:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 11, 2024 14:23:38.27 [11724:19008:0511/142149.863:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 11, 2024 14:23:38.40 [11724:19008:0511/142338.407:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+May 11, 2024 14:45:29.78 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 11, 2024 14:48:34.85 [5032:24736:0511/144834.850:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 11, 2024 15:13:43.03 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 11, 2024 15:15:22.58 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 11, 2024 15:18:20.12 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 11, 2024 15:42:51.15 [476:23860:0511/154251.148:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 11, 2024 17:49:24.34 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 11, 2024 17:59:37.78 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+May 11, 2024 18:57:40.94 NEW SESSION
+May 11, 2024 18:57:40.94 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 11, 2024 19:12:08.55 [22968:14520:0511/191208.555:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 11, 2024 19:12:28.12 [22968:14520:0511/191228.120:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+May 11, 2024 19:22:38.22 [22968:14520:0511/192238.219:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+May 11, 2024 23:54:37.37 NEW SESSION
+May 11, 2024 23:54:37.37 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 12, 2024 24:10:24.77 [12732:1364:0512/001024.771:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 12, 2024 24:16:08.87 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 12, 2024 24:24:30.19 [24672:13808:0512/002430.193:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 12, 2024 24:24:46.39 [24672:13808:0512/002446.393:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+
+May 12, 2024 09:37:45.41 NEW SESSION
+May 12, 2024 09:37:45.41 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 12, 2024 09:58:21.33 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 12, 2024 09:59:34.17 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 12, 2024 10:11:39.08 [15040:17004:0512/101139.087:ERROR:device_event_log_impl.cc(195)] [10:11:39.087] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 12, 2024 11:33:38.21 [15040:19312:0512/113338.212:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+May 13, 2024 12:46:31.22 NEW SESSION
+May 13, 2024 12:46:31.22 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 13, 2024 12:50:24.86 [5876:3360:0513/125024.862:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 13, 2024 13:12:40.35 [5876:3360:0513/131240.357:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 13, 2024 13:15:04.56 [5876:3360:0513/131504.565:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -103
+May 13, 2024 13:15:06.71 [5876:3360:0513/131506.715:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+May 13, 2024 13:15:07.57 [5876:3388:0513/131507.576:ERROR:device_event_log_impl.cc(195)] [13:15:07.576] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 13, 2024 13:21:18.28 [5876:3360:0513/132118.287:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 13, 2024 13:29:06.72 [5876:3360:0513/132906.724:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+May 13, 2024 13:35:55.80 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 13, 2024 13:40:03.27 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 13, 2024 13:47:31.49 [1676:27268:0513/134731.491:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 13, 2024 13:49:40.14 [1676:27268:0513/134940.142:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+May 13, 2024 13:50:29.99 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 13, 2024 14:10:48.33 [6980:26656:0513/141048.337:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+May 13, 2024 14:33:50.12 [6980:21636:0513/143350.121:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 13, 2024 14:48:50.32 [6980:21636:0513/144850.326:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+May 13, 2024 14:49:14.36 [6980:21636:0513/144914.367:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 13, 2024 14:50:01.67 [6980:21636:0513/145001.676:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 13, 2024 14:50:07.98 [6980:21636:0513/145007.986:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+May 13, 2024 16:43:20.43 NEW SESSION
+May 13, 2024 16:43:20.43 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 13, 2024 16:48:10.97 [4968:13480:0513/164810.973:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+May 13, 2024 16:50:29.47 [4968:13480:0513/165029.479:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 13, 2024 16:50:47.29 [4968:13480:0513/165047.295:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 13, 2024 16:52:18.52 [4968:13480:0513/165218.526:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 13, 2024 17:25:14.42 [4968:13480:0513/172514.424:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 13, 2024 17:25:15.34 [4968:13480:0513/172515.343:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+May 13, 2024 17:33:01.09 [4968:13480:0513/173301.090:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 13, 2024 17:34:26.49 [4968:13480:0513/173426.495:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 13, 2024 17:34:27.36 [4968:13480:0513/173427.361:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+May 13, 2024 17:34:27.74 [4968:13480:0513/173427.740:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+May 13, 2024 17:34:35.38 [4968:13480:0513/173435.387:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+May 13, 2024 22:33:01.95 NEW SESSION
+May 13, 2024 22:33:01.95 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 13, 2024 22:48:15.82 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 13, 2024 22:49:19.30 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 13, 2024 22:50:41.55 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 13, 2024 22:52:14.05 [15008:14148:0513/225214.049:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+May 13, 2024 23:12:20.77 [15008:14148:0513/231220.769:ERROR:device_event_log_impl.cc(195)] [23:12:20.770] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 13, 2024 23:23:45.90 [15008:3980:0513/232345.907:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 13, 2024 23:47:10.76 [15008:3980:0513/234710.767:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+
+May 14, 2024 09:02:28.95 NEW SESSION
+May 14, 2024 09:02:28.95 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 14, 2024 09:30:24.57 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+May 14, 2024 10:27:22.42 NEW SESSION
+May 14, 2024 10:27:22.42 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 14, 2024 10:32:04.74 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 14, 2024 10:34:01.79 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 14, 2024 10:40:14.54 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 14, 2024 10:47:04.61 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 14, 2024 10:54:30.48 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+May 14, 2024 13:08:24.58 NEW SESSION
+May 14, 2024 13:08:24.58 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 14, 2024 13:10:35.84 [7272:26344:0514/131035.845:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -103
+May 14, 2024 13:10:37.31 [7272:28144:0514/131037.313:ERROR:device_event_log_impl.cc(195)] [13:10:37.312] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 14, 2024 13:10:37.93 [7272:26344:0514/131037.937:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+May 14, 2024 13:16:09.23 [7272:26344:0514/131609.234:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 14, 2024 13:16:22.56 [7272:26344:0514/131622.559:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 14, 2024 13:25:42.26 [7272:26344:0514/131934.502:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 14, 2024 13:29:21.27 [7272:26344:0514/132921.278:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 14, 2024 13:40:33.63 [7272:26344:0514/134033.632:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+May 14, 2024 13:43:20.82 [7272:26344:0514/134320.824:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+May 14, 2024 13:48:48.95 [7272:26344:0514/134848.957:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+May 14, 2024 13:48:54.05 [7272:26344:0514/134854.053:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106

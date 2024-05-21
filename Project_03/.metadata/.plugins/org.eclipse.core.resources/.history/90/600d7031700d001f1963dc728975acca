@@ -1,0 +1,14 @@
+package in.co.rays.project_3.controller;
+
+import javax.servlet.annotation.WebServlet;
+
+@WebServlet(name = "LessonCtl", urlPatterns = { "/ctl/LessonCtl" })
+public class LessonCtl extends BaseCtl{
+
+	@Override
+	protected String getView() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

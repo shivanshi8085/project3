@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="ProductDTO"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="OrderDTO"/>
+			<item value="OrderModelHibImp"/>
+			<item value="ProductListCtl"/>
+			<item value="ProductDTO"/>
+			<item value="ProductCtl"/>
+			<item value="ProductModelInt"/>
+			<item value="BankDTO"/>
+			<item value="BankModelInt"/>
+			<item value="Bank List"/>
+			<item value="car"/>
+			<item value="table responsive"/>
+			<item value="view-port"/>
+			<item value="bars"/>
+			<item value="collapse"/>
+			<item value="search"/>
+		</list>
+		<list key="replacehistory">
+			<item value="ProductDTO"/>
+			<item value="ProductModelHibImp"/>
+			<item value="HotelListCtl"/>
+			<item value="HotelDTO"/>
+			<item value="HotelCtl"/>
+			<item value="HotelModelInt"/>
+			<item value="LessonListCtl"/>
+			<item value="LessonDTO"/>
+			<item value="LessonModelInt"/>
+			<item value="OrderDTO"/>
+			<item value="OrderModelInt"/>
+			<item value="ProductModelInt"/>
+			<item value="Employee List"/>
+			<item value="Employee list"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="779"/>
+		<item key="DIALOG_Y_ORIGIN" value="167"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

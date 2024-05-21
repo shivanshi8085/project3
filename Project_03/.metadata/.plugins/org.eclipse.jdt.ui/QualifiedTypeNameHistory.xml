@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.util.HibDataSource"/>
+    <fullyQualifiedTypeName name="javax.transaction.Transaction"/>
+    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+    <fullyQualifiedTypeName name="org.hibernate.HibernateException"/>
+    <fullyQualifiedTypeName name="org.hibernate.Criteria"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.util.DataValidator"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.RoleModelInt"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.BankModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.BankDTO"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.util.PropertyReader"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.util.ServletUtility"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.EmployeeModelHibImp"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.util.DataUtility"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.EmployeeDTO"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.EmployeeModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.ProductModelHibImp"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.exception.ApplicationException"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.exception.DuplicateRecordException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.OrderModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.LessonModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.BaseDTO"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.HotelModelInt"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.controller.BaseCtl"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.controller.ORSView"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.ProductModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.ModelFactory"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.ProductDTO"/>
+</qualifiedTypeNameHistroy>
